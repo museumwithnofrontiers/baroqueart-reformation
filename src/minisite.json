@@ -1,6 +1,20 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
+  "legacy": "https://baroqueart.museumwnf.org/exhibitions/BAR/reformation/",
+  "family": "BAR",
   "menuSecondColumnFrom": 7,
-  "curators": [],
+  "curators": [
+    {
+      "partner": "fae81dae-0250-52ec-acc1-171da28b9eef",
+      "place": "Rome",
+      "country": "ita",
+      "logo": "legacy/IT-51.png",
+      "space": 35
+    }
+  ],
+  "design": {
+    "name": "Yasar University Izmir, Turkey",
+    "logo": "legacy/yasar.png",
+    "href": "http://www.yasar.edu.tr/en/"
+  },
   "maps": 0
 }
