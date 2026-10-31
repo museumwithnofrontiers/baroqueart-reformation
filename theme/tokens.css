@@ -26,6 +26,7 @@
   --minisite-menu-link: #91837a;
   --minisite-strip: #4b3527;
   --minisite-footer: #1c110b;
+  --minisite-footer-height: 18px;
   --minisite-footer-text: #91837a;
   --minisite-footer-font: Normal 9px verdana, arial , helvetica;
   --minisite-footer-link: #91837a;
@@ -38,10 +39,12 @@
   --minisite-home-bg1-height: 240px;
   --minisite-home-bg1: #d6d9d0;
   --minisite-home-bg2-height: 474px;
+  --minisite-home-title-right: 33px;
   --minisite-home-title-top: 55px;
   --minisite-home-title-width: 305px;
   --minisite-home-title-font: normal 37px/38px Georgia, "Times New Roman", Times, serif;
   --minisite-home-title-color: #FFFFFF;
+  --minisite-home-description-right: 33px;
   --minisite-home-description-top: 170px;
   --minisite-home-description-width: 305px;
   --minisite-home-description-font: normal 16px/19px Georgia, "Times New Roman", Times, serif;
@@ -70,12 +73,12 @@
   --minisite-partners-width: 97.3%;
   --minisite-partners-padding: 0px 10px 0px 10px;
   --minisite-partners-line-color: #a89c8c;
-  --minisite-partners-line-height: 14px;
   --minisite-partners-curators-width: 540px;
   --minisite-partners-curators-padding: 10px 0px 10px 0px;
   --minisite-partners-curators-margin-right: 10px;
   --minisite-partners-curators-rule: 1px solid #1C110B;
   --minisite-partners-tab-width: 130px;
+  --minisite-partners-tab-padding-right: 20px;
   --minisite-partners-tab-font: Normal 9px/12px verdana, arial , helvetica;
   --minisite-partners-tab-color: #a89c8c;
   --minisite-partners-tab-spacing: .2px;
@@ -99,6 +102,7 @@
   --minisite-partners-design-tab-line-height: 14px;
   --minisite-partners-design-tab-padding: 14px 0px 0px 0px;
   --minisite-intro-paper: #f3ecf4;
+  --minisite-intro-padding-top: 200px;
   --minisite-intro-title-left: 152px;
   --minisite-intro-title-top: 100px;
   --minisite-intro-title-align: right;
